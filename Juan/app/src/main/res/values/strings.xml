@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="Football">Footbal</string>
+    <string name="sisa">Sisarras</string>
+    <string name="ios">Ios</string>
+    <string name="android">Android</string>
+    <string name="windows">Windows Mobile</string>
+</resources>
